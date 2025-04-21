@@ -1,0 +1,4 @@
+
+IceMonster,Glaceon,1,100,0,Ice
+WaterMonster,Squirlte,1,40,0,Water
+FireMonster,Charmander,1,100,0,Fire
